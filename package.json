@@ -1,0 +1,24 @@
+{
+  "name": "node.js-for-beginners",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabha-lumel/Node.js-for-Beginners.git"
+  },
+  "author": "Prabhakaran Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabha-lumel/Node.js-for-Beginners/issues"
+  },
+  "homepage": "https://github.com/prabha-lumel/Node.js-for-Beginners#readme"
+}
